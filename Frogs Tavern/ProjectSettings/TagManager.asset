@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - WorkTable
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Table
+  - Water
+  - UI
+  - Frog
+  - WorkingPlace
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Environment
+    uniqueID: 3271705167
+    locked: 0
+  - name: Player
+    uniqueID: 382674793
+    locked: 0
+  - name: UI
+    uniqueID: 4160145893
+    locked: 0
